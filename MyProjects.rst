@@ -6,18 +6,23 @@ index
 
 1. :ref:`pytutor`
 	* in progress
+	* 2020.3-
 
 2. :ref:`Kingdoms`
 	* in progress
+	* 2020.11-
 
 3. :ref:`mymnist`
 	* completed
+	* 2019.12-2020.2
 
-4.ai for gomoku
+4. gomoku
 	* completed
+	* 2019.7-2020.7
 
-5.initproject
+5. initproject
 	* completed
+	* 2019.7-2019.9
 
 .. _pytutor:
 
@@ -25,6 +30,8 @@ pytutor
 -----------
 
 * in progress
+
+* 2020.3-
 
 * This project is a quiz system and forum system built for CS220 course in University of Wisconsin-Madison as a python learning tool
 
@@ -42,6 +49,8 @@ Kingdoms
 
 * in progress
 
+* 2020.11-
+
 * The game is based on the board game Kingdoms by Reiner Knizia
 
 * finish the local game part, online mode is in progress
@@ -54,6 +63,8 @@ mymnist
 ----------
 
 * completed
+
+* 2019.12-2020.2
 
 * classical project for artificial intelligence, to distinguish handwritten numbers
 

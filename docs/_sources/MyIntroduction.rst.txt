@@ -69,13 +69,13 @@ more photos
 	:scale: 10%
 	:align: right
 
-	my university
+	University
 
 .. figure:: 7.jpg
 	:scale: 30%
 	:align: left
 
-	Dormitory of Mid-Autumn Festival
+	Dormitory in the Mid-Autumn Festival
 
 
 .. image:: 8.jpg
