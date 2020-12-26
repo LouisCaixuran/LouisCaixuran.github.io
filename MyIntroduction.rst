@@ -3,7 +3,7 @@ My introduction
 
 general introduction
 ---------------------
-My name is Xuran Cai, I am a junior student in University of Wisconsin-Madison, with double major Math and Computer Science. I graduated from the Jinling High school in my hometown, Nanjing, Jiangsu, China. Along with schoolwork, I have created Structural Design and Architecture Club in my high school and taken part in project team (Coding For Good club) in the university.I'm interested in learning about deep-learning, software design and algorithm. In my spare time, I enjoy playing board games, hanging out with friends and family.
+My name is Xuran Cai, I am a junior student in University of Wisconsin-Madison, with double major Math and Computer Science. I graduated from the Jinling High school in my hometown, Nanjing, Jiangsu, China. Along with schoolwork, I have created Structural Design and Architecture Club in my high school and taken part in project team (Coding For Good club) in the university.I'm interested in coding, playing board games, watching anime and hanging out with friends and family.
 
 .. figure:: 1.jpg
 	:scale: 20 %
@@ -19,11 +19,13 @@ personal information
 +------------+------------+------------+-----------------+
 | gender     |  male      |  email     | xcai67@wisc.edu |
 +------------+------------+------------+-----------------+ 
+| major      | cs/math    | race       | Asians          |
++------------+------------+------------+-----------------+
 | University |  University of Wisconsin-Madison          |
 +------------+-------------------------------------------+
 |  github    |  https://github.com/LouisCaixuran         |
 +------------+-------------------------------------------+
-| hobbies    | boardgame, video game, badminton, reading | 
+| hobbies    | boardgame, anime, badminton, reading      | 
 +------------+-------------------------------------------+
 
 
@@ -44,12 +46,12 @@ education experience
 more photos
 ---------------
 .. image:: 3.jpg
-	:scale: 30 %
+	:scale: 40 %
 	:align: left
 
 
 .. figure:: 4.jpg
-	:scale: 30 %
+	:scale: 40 %
 	:align: right
 
 	Structural Design and Architecture Club
