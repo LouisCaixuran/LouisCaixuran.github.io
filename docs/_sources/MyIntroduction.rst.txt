@@ -45,9 +45,11 @@ education experience
 
 more photos
 ---------------
-.. image:: 3.jpg
-	:scale: 50 %
+.. figure:: 3.jpg
+	:scale: 30 %
 	:align: left
+
+	graduation photo
 
 
 .. figure:: 4.jpg
@@ -55,5 +57,29 @@ more photos
 	:align: right
 
 	Structural Design and Architecture Club
+
+
+.. figure:: 5.jpg
+	:scale: 40%
+	:align: left
+
+	my cats
+
+.. figure:: 6.jpg
+	:scale: 10%
+	:align: right
+
+	my university
+
+.. figure:: 7.jpg
+	:scale: 30%
+	:align: left
+
+	Dormitory of Mid-Autumn Festival
+
+
+.. image:: 8.jpg
+	:scale: 30%
+	:align: right
 
 
