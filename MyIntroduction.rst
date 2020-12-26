@@ -46,12 +46,12 @@ education experience
 more photos
 ---------------
 .. image:: 3.jpg
-	:scale: 40 %
+	:scale: 50 %
 	:align: left
 
 
 .. figure:: 4.jpg
-	:scale: 40 %
+	:scale: 30 %
 	:align: right
 
 	Structural Design and Architecture Club
