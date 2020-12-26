@@ -1,0 +1,56 @@
+My introduction
+==========================
+
+general introduction
+---------------------
+My name is Xuran Cai, I am a junior student in University of Wisconsin-Madison, with double major Math and Computer Science. I graduated from the Jinling High school in my hometown, Nanjing, Jiangsu, China. Along with schoolwork, I have created Structural Design and Architecture Club in my high school and taken part in project team (Coding For Good club) in the university.I'm interested in learning about deep-learning, software design and algorithm. In my spare time, I enjoy playing board games, hanging out with friends and family.
+
+.. figure:: 1.jpg
+	:scale: 20 %
+	:align: center
+
+	my girlfriend Trinity with me in Disneyland
+
+personal information
+---------------------
+
++------------+------------+------------+-----------------+
+| name       |  Xuran Cai |  birthday  | 02/21/2001      |
++------------+------------+------------+-----------------+
+| gender     |  male      |  email     | xcai67@wisc.edu |
++------------+------------+------------+-----------------+ 
+| University |  University of Wisconsin-Madison          |
++------------+-------------------------------------------+
+|  github    |  https://github.com/LouisCaixuran         |
++------------+-------------------------------------------+
+| hobbies    | boardgame, video game, badminton, reading | 
++------------+-------------------------------------------+
+
+
+education experience
+----------------------
+
+1. \ `Jinling High school <www.jlhs.net>`_
+	* 2017.9-2019.9
+	
+	* Nanjing, Jiangsu, China
+
+
+2. \ `University of Wisconsin-Madison <www.wisc.edu>`_
+	* 2019.9-
+	
+	* Madison, WI, US
+
+more photos
+---------------
+.. image:: 3.jpg
+	:scale: 30 %
+	:align: left
+
+
+.. figure:: 4.jpg
+	:scale: 30 %
+	:align: right
+
+	Structural Design and Architecture Club
+
