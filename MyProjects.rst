@@ -16,13 +16,13 @@ index
 	* completed
 	* 2019.12-2020.2
 
-4. gomoku
+4. :ref:`gomoku`
 	* completed
 	* 2019.7-2020.7
 
-5. initproject
+5. :ref:`initproject`
 	* completed
-	* 2019.7-2019.9
+	* 2018.7-2018.11
 
 .. _pytutor:
 
@@ -71,3 +71,37 @@ mymnist
 * two versions: numpy and pytorch
 
 * link: https://github.com/LouisCaixuran/mymnist.git
+
+.. _gomoku:
+
+gomoku
+----------
+
+* completed
+
+* 2019.7-2020.7
+
+* gomoku game (with web server and gui)
+
+* several mods :human player, expert, random, ai(use Monte Carlo method and cnn)
+
+* link: https://github.com/LouisCaixuran/gomoku.git
+		
+		https://github.com/LouisCaixuran/gomoku-ui.git
+
+
+.. _initproject:
+
+initproject
+--------------
+
+* completed
+
+* 2018.7-2018.11
+
+* A tool for initial a python project (create the classical directory for a project)
+
+* link: https://github.com/LouisCaixuran/initproject.git
+
+	    https://pypi.org/project/initpro/
+

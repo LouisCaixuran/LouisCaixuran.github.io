@@ -17,10 +17,8 @@ personal information
 +------------+------------+------------+-----------------+
 | name       |  Xuran Cai |  birthday  | 02/21/2001      |
 +------------+------------+------------+-----------------+
-| gender     |  male      |  email     | xcai67@wisc.edu |
+| major      |  cs/math   |  email     | xcai67@wisc.edu |
 +------------+------------+------------+-----------------+ 
-| major      | cs/math    | race       | Asians          |
-+------------+------------+------------+-----------------+
 | University |  University of Wisconsin-Madison          |
 +------------+-------------------------------------------+
 |  github    |  https://github.com/LouisCaixuran         |
