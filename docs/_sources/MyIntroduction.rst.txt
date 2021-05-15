@@ -3,7 +3,7 @@ My introduction
 
 general introduction
 ---------------------
-My name is Xuran Cai, I am a junior student in University of Wisconsin-Madison, with double major Math and Computer Science. I graduated from the Jinling High school in my hometown, Nanjing, Jiangsu, China. Along with schoolwork, I have created Structural Design and Architecture Club in my high school and taken part in project team (Coding For Good club) in the university.I'm interested in coding, playing board games, watching anime and hanging out with friends and family.
+My name is Xuran Cai, I am a sophomore student in University of Wisconsin-Madison, with double major Math and Computer Science. I graduated from the Jinling High school in my hometown, Nanjing, Jiangsu, China. Along with schoolwork, I have created Structural Design and Architecture Club in my high school and taken part in project team (Coding For Good club) in the university.I'm interested in coding, playing board games, watching anime and hanging out with friends and family.
 
 .. figure:: 1.jpg
 	:scale: 20 %
