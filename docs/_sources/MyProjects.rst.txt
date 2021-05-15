@@ -40,6 +40,8 @@ pytutor
 * Working with project team in coding for good club. I play the role of backend developer and build functions on lambda.
 
 * link: https://github.com/sjain75/pytutor.git
+		
+		http://pytutor.ddns.net/sjain75/worksheets/html/pytutor-demo.html
 
 
 .. _Kingdoms:
